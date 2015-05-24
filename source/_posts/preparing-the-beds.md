@@ -1,6 +1,13 @@
 title: "Preparing the Beds"
 date: 2015-05-15 00:00:00
 tags:
+  - boulder
+  - soil
+  - lime
+  - blood
+  - meal
+  - potash
+  - barberry
 ---
 
 - 5/15&mdash;Temp: 34&ndash;68F, Precip: 0.00"

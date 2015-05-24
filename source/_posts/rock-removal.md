@@ -1,6 +1,10 @@
 title: "Rock Removal"
 date: 2015-04-26 00:00:00
 tags:
+  - granite
+  - rock
+  - boulder
+  - rhubarb
 ---
 
 - 4/26&mdash;Temp: 36&ndash;52F, Precip: 0.00"

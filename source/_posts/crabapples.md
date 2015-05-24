@@ -1,6 +1,11 @@
 title: "Crabapples"
 date: 2015-05-14 00:00:00
 tags:
+  - crabapple
+  - forsythia
+  - buckthorn
+  - wild cherry
+  - maple
 ---
 
 - 5/14&mdash;Temp: 32&ndash;68F, Precip: 0.00"

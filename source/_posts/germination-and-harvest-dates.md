@@ -1,6 +1,22 @@
 title: "Germination and Harvest Dates"
 date: 2015-05-23 17:47:25
 tags:
+  - vegetables
+  - basil
+  - beans
+  - beets
+  - carrots
+  - chard
+  - cilantro
+  - dill
+  - garlic
+  - kale
+  - lettuce
+  - okra
+  - onions
+  - spinach
+  - watermelon
+  - zucchini
 ---
 
 The following table summarizes estimated germination and harvest dates for the
@@ -26,7 +42,7 @@ vegetables planted in the garden:
       <td>Beans</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>104 days</td>
     </tr>
     <tr>
       <td>Beets</td>

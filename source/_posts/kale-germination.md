@@ -1,6 +1,7 @@
 title: "Kale Germination"
 date: 2015-05-22 17:32:01
 tags:
+  - kale
 ---
 
 - 5/22&mdash;Temp: 48&ndash;66F, Precip: 0.00"

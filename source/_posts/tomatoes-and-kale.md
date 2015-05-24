@@ -1,6 +1,12 @@
 title: "Tomatoes and Kale"
 date: 2015-05-16 00:00:00
 tags:
+  - lawn
+  - strawberries
+  - violets
+  - dandelions
+  - tomatoes
+  - kale
 ---
 
 - 5/16&mdash;Temp: 53&ndash;70F, Precip: 0.00"

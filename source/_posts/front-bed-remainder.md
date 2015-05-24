@@ -1,6 +1,16 @@
 title: "Front Bed Remainder"
 date: 2015-05-17 00:00:00
 tags:
+  - chard
+  - beets
+  - spinach
+  - basil
+  - cilantro
+  - dill
+  - carrots
+  - lettuce
+  - kale
+  - barberry
 ---
 
 - 5/17&mdash;Temp: 59&ndash;82F, Precip: 0.00"

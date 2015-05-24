@@ -1,6 +1,14 @@
 title: "Gardening"
 date: 2015-04-18 00:00:00
 tags:
+  - okra
+  - watermelon
+  - vegetables
+  - berries
+  - trees
+  - flowers
+  - shrubs
+  - soil
 ---
 
 - 4/18&mdash;Temp: 36&ndash;66F, Precip: 0.00"
