@@ -19,6 +19,8 @@ tags:
   - zucchini
 ---
 
+- 5/23&mdash;Temp: 34&ndash;61F, Precip: 0.00"
+
 The following table summarizes estimated germination and harvest dates for the
 vegetables planted in the garden:
 
