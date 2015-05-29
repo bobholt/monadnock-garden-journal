@@ -6,6 +6,7 @@ The following retailers, products, and so forth are currently enjoying "most fav
 
 ## Knowledge
 - [Organic! A Gardener's Handbook](http://rosalysgarden.com/node/63) - Rosaly Bass. A great primer for the novice gardener. It certainly helps that it was written specifically for our region, allowing me to directly use Rosaly's extensive experience with weather and pests. Valuable for gardeners in other regions as long as you take your seasons into account.
+- [The MiniFarming Bible](http://www.amazon.com/The-Mini-Farming-Bible-Self-Sufficiency/dp/1629144908) - Brett L. Markham. Another great primer. Very well researched no-nonsense info on making the best garden/small farm possible. Also relatively local to me, which is choice.
 - [UNH Cooperative Extension](extension.unh.edu) - Your local extension office is always a good resource. Most should test your soil for a nominal charge.
 
 ## Seeds
@@ -20,3 +21,4 @@ The following retailers, products, and so forth are currently enjoying "most fav
 
 ## Misc.
 - [Coast of Maine Quoddy Blend Lobster Compost](http://www.coastofmaine.com/soils-quoddy.shtml) - The only compost I've ever bought.
+- [Good Ideas Compost Wizard Dual Senior](http://www.goodideasinc.com/products/composters/compost-wizard-dual-senior/)
