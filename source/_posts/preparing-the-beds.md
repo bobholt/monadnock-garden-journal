@@ -32,8 +32,8 @@ Once an entire bed (80 sq ft) had been double-dug, added the amendments
 suggested by the extension service:
 
 - 9.2 lb. [dolemitic lime](https://en.wikipedia.org/wiki/Dolomite)
-- 2.4 lb. [dried blood](http://www.espoma.com/product/blood-meal/)
-- 1.056 lb. [muriate of potash](http://www.fertilome.com/product.aspx?pid=2121bc21-6dc1-4b0f-830b-3bc809c97948)
+- 1.2 lb. [dried blood](http://www.espoma.com/product/blood-meal/)
+- 0.53 lb. [muriate of potash](http://www.fertilome.com/product.aspx?pid=2121bc21-6dc1-4b0f-830b-3bc809c97948)
 
 Extension service recommended 2.88 lb. sul-po-mag (0-0-22), but
 [Agway](achilleagway.com) only had potash (0-0-60). Hopefully calculated

@@ -1,4 +1,4 @@
-title: "Germination and Harvest Dates"
+title: "Germination and Harvest Dates (Updated)"
 date: 2015-05-23 17:47:25
 tags:
   - vegetables
@@ -42,9 +42,9 @@ vegetables planted in the garden:
     </tr>
     <tr>
       <td>Beans</td>
+      <td>May 29</td>
       <td></td>
-      <td></td>
-      <td>104 days</td>
+      <td>September 10</td>
     </tr>
     <tr>
       <td>Beets</td>
@@ -78,9 +78,9 @@ vegetables planted in the garden:
     </tr>
     <tr>
       <td>Garlic</td>
+      <td>May 29</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>???</td>
     </tr>
     <tr>
       <td>Kale</td>
@@ -96,13 +96,13 @@ vegetables planted in the garden:
     </tr>
     <tr>
       <td>Okra</td>
+      <td>May 29</td>
       <td></td>
-      <td></td>
-      <td>56 days</td>
+      <td>July 24</td>
     </tr>
     <tr>
       <td>Onions</td>
-      <td></td>
+      <td>May 29</td>
       <td></td>
       <td>summer</td>
     </tr>
@@ -114,15 +114,15 @@ vegetables planted in the garden:
     </tr>
     <tr>
       <td>Watermelon</td>
+      <td>May 29</td>
       <td></td>
-      <td></td>
-      <td>90 days</td>
+      <td>August 27</td>
     </tr>
     <tr>
       <td>Zucchini</td>
-      <td></td>
-      <td>7&ndash;14 days</td>
-      <td>50 days</td>
+      <td>May 29</td>
+      <td>June 5&ndash;12</td>
+      <td>July 18</td>
     </tr>
   </tbody>
 </table>

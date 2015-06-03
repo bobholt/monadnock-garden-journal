@@ -5,7 +5,7 @@ tags:
   - forsythia
 ---
 
-- 5/28&mdash;Temp: 64&ndash;82F, Precip: 0.37"
+- 5/28&mdash;Temp: 60&ndash;82F, Precip: 0.37"
 
 Rained last night briefly and a little harder (but just as brief) today.
 
