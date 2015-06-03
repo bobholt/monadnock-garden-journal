@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.0.1"
+    "version": "3.1.1"
   },
   "dependencies": {
     "hexo": "^3.0.0",
     "hexo-clean-css": "0.0.2",
-    "hexo-deployer-git": "0.0.4",
+    "hexo-deployer-s3": "https://github.com/bobholt/hexo-deployer-s3.git",
     "hexo-generator-archive": "^0.1.0",
     "hexo-generator-category": "^0.1.0",
     "hexo-generator-index": "^0.1.0",
