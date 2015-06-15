@@ -3,6 +3,9 @@ date: 2015-06-14 20:02:38
 tags:
   - lilacs
   - forsythia
+  - beans
+  - zucchini
+  - okra
 ---
 
 - 6/14&mdash;Temp: 55&ndash;80F, Precip: 0.00"
@@ -24,3 +27,7 @@ chipped by end of next week.
   {% asset_img pruning.jpg %}
   <figcaption>Pruning</figcaption>
 </figure>
+
+Pulled row cover off of second bed. Black beans several inches tall with big
+leaves. Everything else looking good, though it seems a couple of okra and a
+couple of zucchini didn't germinate. Still should be plenty.
