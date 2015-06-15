@@ -5,7 +5,7 @@ tags:
   - garden
 ---
 
-- 6/10&mdash;Temp: 55&ndash;75F, Precip: 0.00"
+- 6/10&mdash;Temp: 55&ndash;77F, Precip: 0.00"
 - 6/9&mdash;Temp: 60&ndash;73F, Precip: 0.24"
 
 Ordered 80 cinder blocks yesterday to form garden bed perimeters, hopefully to

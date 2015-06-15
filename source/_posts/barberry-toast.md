@@ -18,6 +18,11 @@ Pulled a few weeds from garden. Mostly tiny clover shamrocks.
 Wild strawberries have fruited. Ripe ones are about the size of a pea, but
 incredibly delicious.
 
+<figure>
+  {% asset_img strawberries.jpg %}
+  <figcaption>Malcolm Picking Strawberries</figcaption>
+</figure>
+
 Hopefully eradicated majority of Japanese Barberry in yard. Removed huge shrub
 (and pulled roots) in front yard. Found more in dense growth in back yard on
 either side of property line. Cut off at ground and pulled out.
