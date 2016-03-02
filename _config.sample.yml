@@ -7,7 +7,7 @@ title: A Monadnock Garden Journal
 subtitle:
 description: The online garden journal of a first-time home gardener in the Monadnock Region of New Hampshire
 author: Bob Holt
-language: en-us
+language: en
 timezone: America/New_York
 
 # URL
@@ -62,16 +62,38 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: pure
+theme: hueman
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
 
 html_minifier:
+  enable: true
+  collapseWhitespace: true
+  removeComments: true
+  removeTagWhitespace: true
+  removeScriptTypeAttributes: true
+  removeStyleLinkTypeAttributes: true
   exclude:
 
+imagemin:
+  enable     : true
+  interlaced : true
+  multipass  : true
+  optimizationLevel: 2
+  pngquant   : true
+  progressive: true
+
 clean_css:
+  enable: true
   exclude:
     - "*.min.css"
 
 uglify:
+  enable: true
   mangle: true
   output:
   compress:
