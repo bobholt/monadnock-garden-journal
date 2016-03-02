@@ -24,6 +24,5 @@ various other plantings, particularly lilacs. Brush currently filling one
 quarter of our driveway to between 5 and 6 feet high.
 
 <figure>
-  {% asset_img geraniums.jpg %}
-  <figcaption>Planting geraniums</figcaption>
+  {% asset_img geraniums.jpg Planting geraniums %}
 </figure>

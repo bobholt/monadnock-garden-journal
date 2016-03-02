@@ -13,6 +13,5 @@ watering. Uncovered and verified today. Have not seen signs of other germination
 yet (but did not remove cover to check 100%).
 
 <figure>
-  {% asset_img checking.jpg %}
-  <figcaption>Checking the kale sprouts</figcaption>
+  {% asset_img checking.jpg Checking the kale sprouts %}
 </figure>

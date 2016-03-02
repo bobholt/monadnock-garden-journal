@@ -19,8 +19,7 @@ Wild strawberries have fruited. Ripe ones are about the size of a pea, but
 incredibly delicious.
 
 <figure>
-  {% asset_img strawberries.jpg %}
-  <figcaption>Malcolm Picking Strawberries</figcaption>
+  {% asset_img strawberries.jpg Malcolm Picking Strawberries %}
 </figure>
 
 Hopefully eradicated majority of Japanese Barberry in yard. Removed huge shrub

@@ -26,8 +26,7 @@ Used 2x4s as levers, fallen tree branches and handy rocks as fulcra. Lifted
 inch-by-inch and backfilled with soil and sod.
 
 <figure>
-  {% asset_img bob-malcolm-rock.jpg %}
-  <figcaption>Rock Removal Experts</figcaption>
+  {% asset_img bob-malcolm-rock.jpg Rock Removal Experts %}
 </figure>
 
 Received 1 rhubarb crown from D. Wood. Planted 3 ft. east of planned garden

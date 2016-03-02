@@ -21,6 +21,5 @@ Nice ground cover in vicinity. We'll see if it survives after we stole its
 shade.
 
 <figure>
-  {% asset_img crabapple.jpg %}
-  <figcaption>Cleared crabapple (reddish in foreground)</figcaption>
+  {% asset_img crabapple.jpg Cleared crabapple (reddish in foreground) %}
 </figure>

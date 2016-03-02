@@ -21,8 +21,7 @@ started by [Rosaly Bass](http://rosalysgarden.com/)) over 20 square feet (18"
 separation).
 
 <figure>
-  {% asset_img tomatoes.jpg %}
-  <figcaption>Tomatoes</figcaption>
+  {% asset_img tomatoes.jpg Tomatoes %}
 </figure>
 
 Also planted 16 square feet of kale

@@ -24,8 +24,7 @@ Brush pile in driveway continues to grow. Hopefully ready to be picked up and
 chipped by end of next week.
 
 <figure>
-  {% asset_img pruning.jpg %}
-  <figcaption>Pruning</figcaption>
+  {% asset_img pruning.jpg Pruning %}
 </figure>
 
 Pulled row cover off of second bed. Black beans several inches tall with big

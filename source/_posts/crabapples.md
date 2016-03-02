@@ -16,8 +16,7 @@ this is likely [crabapple](https://en.wikipedia.org/wiki/Malus) (ported over
 from next door). Would love to keep crabapples and get rid of shrub.
 
 <figure>
-  {% asset_img crabapple.jpg %}
-  <figcaption>Crabapple Blossom</figcaption>
+  {% asset_img crabapple.jpg Crabapple Blossom %}
 </figure>
 
 Worried sapling within forsythia nearest driveway may have been invasive

@@ -24,8 +24,7 @@ We keep the house at 65&deg; during the day and it drops to 55&ndash;60&deg; at
 night.
 
 <figure>
-  {% asset_img onion-flat.jpg %}
-  <figcaption>Onion Flat</figcaption>
+  {% asset_img onion-flat.jpg Onion Flat %}
 </figure>
 
 ## Dakota Tears Onion

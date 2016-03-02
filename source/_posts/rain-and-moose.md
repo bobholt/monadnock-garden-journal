@@ -17,6 +17,5 @@ Female moose sighted walking west-to-east across our front yard. Went behind 1
 neighbor's house, came out, then continued west. Lost track of it after that.
 
 <figure>
-  {% asset_img moose.jpg %}
-  <figcaption>Moose Nibbles</figcaption>
+  {% asset_img moose.jpg Moose Nibbles %}
 </figure>

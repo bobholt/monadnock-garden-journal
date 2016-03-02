@@ -15,7 +15,6 @@ Planted remainder of blackberry bushes started yesterday.
 Expecting thunderstorms tomorrow through Thursday.
 
 <figure>
-  {% asset_img watering.jpg %}
-  <figcaption>Watering the blackberries</figcaption>
+  {% asset_img watering.jpg Watering the blackberries %}
 </figure>
 

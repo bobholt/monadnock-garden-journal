@@ -34,8 +34,7 @@ edges. Malcolm helped set rock border around bed using rocks uncovered while
 digging beds.
 
 <figure>
-  {% asset_img bob-dad.jpg %}
-  <figcaption>Me and Dad</figcaption>
+  {% asset_img bob-dad.jpg Me and Dad %}
 </figure>
 
 Found more potential Japanese Barberry encroaching on shrub in SW corner of

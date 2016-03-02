@@ -47,6 +47,5 @@ beautiful red berries in winter is likely
 invasive species which should be removed.
 
 <figure>
-  {% asset_img barberry.jpg Japanese Barberry %}
-  <figcaption>Japanese Barberry?</figcaption>
+  {% asset_img barberry.jpg Japanese Barberry? %}
 </figure>

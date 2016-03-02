@@ -14,6 +14,5 @@ for purchase.
 Cool.
 
 <figure>
-  {% asset_img onion-eruption.jpg %}
-  <figcaption>Onion Eruption</figcaption>
+  {% asset_img onion-eruption.jpg Onion Eruption %}
 </figure>

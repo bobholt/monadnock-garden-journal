@@ -31,6 +31,5 @@ watermelon, and zucchini about half an inch. Garlic still underground (planted
 4 inches deep).
 
 <figure>
-  {% asset_img tomatoes.jpg %}
-  <figcaption>Installing Tomato Antennas</figcaption>
+  {% asset_img tomatoes.jpg Installing Tomato Antennas %}
 </figure>

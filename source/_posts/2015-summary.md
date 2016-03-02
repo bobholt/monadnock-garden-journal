@@ -15,8 +15,7 @@ should try to do better this year.
 Some highlights:
 
 <figure>
-  {% asset_img tomatoes-2015-09-06.jpg %}
-  <figcaption>Canning Tomatoes, September 6</figcaption>
+  {% asset_img tomatoes-2015-09-06.jpg Canning Tomatoes, September 6 %}
 </figure>
 
 - Tomatoes: We ended up with over 400 tomatoes. We made a ton of sauce and
@@ -28,8 +27,7 @@ Some highlights:
 - Zucchini: So much zucchini
 
 <figure>
-  {% asset_img zucchini-2015-07-20.jpg %}
-  <figcaption>Zucchini, July 20</figcaption>
+  {% asset_img zucchini-2015-07-20.jpg Zucchini, July 20 %}
 </figure>
 
 Some lowlights:
@@ -39,8 +37,7 @@ Some lowlights:
 - Watermelon: Season's too short to develop the melons when planted directly
 
 <figure>
-  {% asset_img okra-2015-08-18.jpg %}
-  <figcaption>First Okra, August 18</figcaption>
+  {% asset_img okra-2015-08-18.jpg First Okra, August 18 %}
 </figure>
 
 This year, I'll be starting a bunch of seedlings indoors

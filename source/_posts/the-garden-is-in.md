@@ -32,8 +32,7 @@ the beans this morning, then planted this afternoon/evening.
 - [Zucchini](http://www.highmowingseeds.com/organic-non-gmo-seeds-dark-green-summer-squash.html) (*Cucurbita pepo* (Dark Green Zucchini), High Mowing) (10 sq ft)
 
 <figure>
-  {% asset_img onions.jpg Onions %}
-  <figcaption>Onion Sets in the Ground Before Covering (each about the size of a marble)</figcaption>
+  {% asset_img onions.jpg Onion Sets in the Ground Before Covering (each about the size of a marble) %}
 </figure>
 
 Watered front bed. Kale growing like mad. Chard, lettuce, some carrot, and herb
